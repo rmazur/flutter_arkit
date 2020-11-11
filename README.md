@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 
 - [ARKit plugin documentation](https://pub.dev/documentation/arkit_plugin/latest/)
 
-[Example: My first AR ball](assets/arkit-ball.jpeg)
+![Example: My first AR ball](assets/arkit-ball.jpeg)
